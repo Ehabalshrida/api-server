@@ -1,9 +1,9 @@
 # api-server
 
 
-## heruku link [herokulink](https://ehabexpressrestapi.herokuapp.com/)
+## heruku link [herokulink](https://ehabalshrida-api-server.herokuapp.com/)
 
-## test on github [test](https://github.com/Ehabalshrida/basic-api-server/actions)
+## test on github [test](https://github.com/Ehabalshrida/api-server/actions)
 
 ## setup 
 
